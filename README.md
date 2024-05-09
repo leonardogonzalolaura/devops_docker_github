@@ -37,11 +37,29 @@
 <p align="center">
 <img src="getting_started_003.png" alt="Description of the image" width="500" height="300" align:"center">
 <p>
+
 - Wait while the installation completes
 <p align="center">
 <img src="getting_started_004.png" alt="Description of the image" width="500" height="300" align:"center">
 <p>
 
+- After completing the installation, create an admin user and provide the required information
+  
+<p align="center">
+<img src="getting_started_005.png" alt="Description of the image" width="500" height="400" align:"center">
+<p>
 
+- In our case,we will use  **http://localhost:8080/** 
+<p align="center">
+<img src="getting_started_006.png" alt="Description of the image" width="500" height="400" align:"center">
+<p>
 
+- To access jenkins, click on the button **Start using Jenkins**
+<p align="center">
+<img src="getting_started_007.png" alt="Description of the image" width="500" height="200" align:"center">
+<p>
 
+- The Jenkins dashboard will be shown 
+<p align="center">
+<img src="getting_started_008.png" alt="Description of the image" width="500" height="200" align:"center">
+<p>
