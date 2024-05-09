@@ -15,7 +15,7 @@
 #### step 1: configure jenkins in a container to perform the following tasks:
 
 - To navigate to the directory **devosp** where project was downloaded and execute the following commands:
-  <code> docker build -t jenkins_devops --no-cache </code>
+  <code> docker build -t jenkins_devops --no-cache .</code>
 
   then execute:
 
