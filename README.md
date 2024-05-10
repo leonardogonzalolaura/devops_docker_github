@@ -8,7 +8,7 @@
 
 #### Before initiating, clone the repository: 
 
-<code> git clone https://github.com/leonardogonzalolaura/devopscourse.git
+<code> git clone https://github.com/leonardogonzalolaura/devops_docker_github.git
 </code>
 
 
