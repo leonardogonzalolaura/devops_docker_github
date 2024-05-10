@@ -65,3 +65,7 @@
 <p>
 
 #### Step 3: Create an automated pipeline with jenkins ......
+
+<p align="center">
+<img src="create_pipeline_jenkins_001.png" alt="Description of the image" width="500" height="100" align:"center">
+<p>
