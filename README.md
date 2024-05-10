@@ -64,8 +64,13 @@
 <img src="getting_started_008.png" alt="Description of the image" width="500" height="200" align:"center">
 <p>
 
-#### Step 3: Create an automated pipeline with jenkins ......
-
+#### Step 3: Create an automated pipeline with jenkins
+- Select **New Intem** or **Create a job**
 <p align="center">
 <img src="create_pipeline_jenkins_001.png" alt="Description of the image" width="500" height="100" align:"center">
+<p>
+
+- Enter the name of the pipeline for example **webhook_pipeline_java** and select **Freestyle project** then click **OK**
+<p align="center">
+<img src="create_pipeline_jenkins_002.png" alt="Description of the image" width="500" height="350" align:"center">
 <p>
