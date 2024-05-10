@@ -64,4 +64,4 @@
 <img src="getting_started_008.png" alt="Description of the image" width="500" height="200" align:"center">
 <p>
 
-#### Step 3: Create an automated pipeline with jenkins
+#### Step 3: Create an automated pipeline with jenkins ......
