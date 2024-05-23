@@ -74,3 +74,12 @@
 <p align="center">
 <img src="create_pipeline_jenkins_002.png" alt="Description of the image" width="500" height="350" align:"center">
 <p>
+
+- Configure the pipeline in the following ways:
+
+- Use *nrg* **https://ngrok.com/** to router the Jenkins url**http://localhost:8080/**, create an account and in the select the options **Setup & Installation**, then choose the operating system
+  
+<p align="center">
+<img src="create_pipeline_jenkins_003.png" alt="Description of the image" width="500" height="350" align:"center">
+<p>
+  
